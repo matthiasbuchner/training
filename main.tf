@@ -17,7 +17,7 @@
 #
 #     testing-bee
 #
-terraform {
+@#$@#$@#$@#$@terraform {
   backend "atlas" {
     name = "mattb/training"
   }
